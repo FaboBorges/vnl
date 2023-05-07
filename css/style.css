@@ -1,5 +1,6 @@
 html{
 
+    color-scheme: light;
     font-size: 20px;
     overflow:visible;
     min-width: 600px;
@@ -12,7 +13,7 @@ html{
     justify-content: space-evenly;
 
     font-size: 1.5rem;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
 
     padding: 1rem 0rem 1rem 0rem;
     border:none;
@@ -38,6 +39,72 @@ html{
     border:none;
     border-radius: 10px;
     background-color: rgb(36, 36, 36);
+}
+.main_header_box{
+
+    text-align: center;
+    border:none;
+    padding: 1rem 0rem 1rem 0rem;
+    font-family: 'Roboto', sans-serif;
+    background-color: darkred;
+    color:white;
+
+}
+.main_header_title{
+
+    margin-bottom: 1rem;
+    text-align: inherit;
+    text-decoration: underline;
+    font-size:2rem;
+
+}
+.main_header_figure{
+
+    text-align: inherit;
+
+}
+.main_header_img{
+
+    width: 50%;
+
+}
+.main_header_figcap{
+
+    text-align: inherit;
+    font-size: 0.9rem;
+    font-style: italic;
+
+}
+.main_section{
+
+    padding: 1rem;
+
+}
+.main_section_title{
+
+    margin-bottom: 1rem;
+    font-size:2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+.main_article_title{
+
+    margin: 0rem 0.5rem 1rem;
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif; 
+
+}
+.main_article_text{
+
+    margin: 0rem 1rem 1rem 1rem;
+    text-align: justify;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    text-indent: 1rem;
+    font-family: 'Roboto Slab', serif;
+    color:rgb(45, 45, 45);
+
 }
 .main_footer{
 
