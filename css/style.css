@@ -6,6 +6,15 @@ html{
     min-width: 600px;
 
 }
+article>ul{
+
+    margin:0rem 2rem 1rem;
+    font-family: 'Roboto Slab', serif;
+
+    list-style-position: inside;
+    list-style: circle;
+
+}
 .main_menu{
 
     display: flex;
