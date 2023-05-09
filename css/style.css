@@ -115,6 +115,25 @@ article>ul{
     color:rgb(45, 45, 45);
 
 }
+.main_article_figure{
+
+    padding: 1rem;
+    text-align: center;
+
+}
+.main_article_img{
+
+    width:50%;
+
+}
+.main_article_figcap{
+
+    font-size:0.9rem;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Roboto Slab', serif;
+
+}
 .main_footer{
 
     border:none;
